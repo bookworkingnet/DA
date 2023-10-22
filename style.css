@@ -106,7 +106,8 @@ body, header, .logo, .title, .navigation {
 }
 
 .small-image img {
-    max-width: 100%;
+    width: 350px;
+    height: 225px;
 }
 
 .small-image p {
